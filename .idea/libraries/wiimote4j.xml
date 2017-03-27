@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wiimote4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../wiimote4j/classes/artifacts/wiimote4j_jar/wiimote4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
